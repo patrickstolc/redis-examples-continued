@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisChat", "RedisChat\RedisChat.csproj", "{355FBAED-7DA0-4CBE-A0DE-DA040508AD86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateLimitedAPI", "RateLimitedAPI\RateLimitedAPI.csproj", "{7A485310-F2E1-4017-9F2D-6C083757D38E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{355FBAED-7DA0-4CBE-A0DE-DA040508AD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355FBAED-7DA0-4CBE-A0DE-DA040508AD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355FBAED-7DA0-4CBE-A0DE-DA040508AD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355FBAED-7DA0-4CBE-A0DE-DA040508AD86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A485310-F2E1-4017-9F2D-6C083757D38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A485310-F2E1-4017-9F2D-6C083757D38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A485310-F2E1-4017-9F2D-6C083757D38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A485310-F2E1-4017-9F2D-6C083757D38E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MMQR8h4hG6AaEuJ23sZNfkWCzHouGvsyuBJn2XyGpWY=",
+  "Source": "RateLimitedAPI",
+  "BasePath": "_content/RateLimitedAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

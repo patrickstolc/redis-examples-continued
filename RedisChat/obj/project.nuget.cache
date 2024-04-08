@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "aDCaJ3pnSucANeFmy0hDDwMcDKN5txQoUZ+FifWHOo6CNYNmlMreaQHzOl7g9FOTzMSBIwGdayUdZFbOFT+lBQ==",
+  "success": true,
+  "projectFilePath": "/Users/patrickstolc/RiderProjects/RedisExamples/RedisChat/RedisChat.csproj",
+  "expectedPackageFiles": [
+    "/Users/patrickstolc/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/stackexchange.redis/2.7.33/stackexchange.redis.2.7.33.nupkg.sha512",
+    "/Users/patrickstolc/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
